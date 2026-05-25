@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization</title>
+    <link>/</link>
+    <description>Recent content on Data Visualization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Milestones in the History of Data Visualization</title>
+      <link>/2021/08/01/milestones-in-the-history-of-data-visualization/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/08/01/milestones-in-the-history-of-data-visualization/</guid>
+      <description>Early Maps and Diagrams
+550 BC: The first world map?, Anaximander of Miletus
+1350: Bar graph of theoretical function, N. Oresme, France
+c. 1280: Diagrams of paired comparisons for electoral systems- Ramon Llull, Spain
+1375: Catalan Atlas, an exquisitely beautiful visual cosmography, perpetual calendar, and thematic representation of the known world, Abraham Cresques, Spain
+1600-1699: Measurement and Theory
+1626: Visual representations used to chart the changes in sunspots over time, Christopher Scheiner</description>
+    </item>
+    
+    <item>
+      <title>ASP 460 2.0 Data Visualization</title>
+      <link>/schedule/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>2023: Semester 1 Course outline:
+here-ASP 460 2.0
+here-STA 492 2.0
+Here&amp;rsquo;s your roadmap for the semester! Class materials will be added on the day of the class.
+📊 Week 1: Introduction to data visualization: Visualisation design process
+📊 Week 2: Scientific design choices in data visualization
+📊 Week 3-4: Introduction to the grammar of graphics
+Global variabls vs Local variable
+📊 Week 5-6: Create different types of static graphics with ggplot2: categorical Data</description>
+    </item>
+    
+    <item>
+      <title>ASP 460 2.0 Data Visualization</title>
+      <link>/schedule2021/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/schedule2021/</guid>
+      <description>2021: Semester 1 Course outline: here
+Here&amp;rsquo;s your roadmap for the semester! Class materials will be added on the day of the class.
+📊 Week 1: Introduction to data visualization: Visualisation design process
+📊 Week 2: Introduction to the grammar of graphics
+In-class R-script
+📊 Week 3: Introduction to the ggplot2 package - Flipped classroom
+Flipped classroom Go to the Google Classroom for more information. 📊 Week 4: Scientific design choices in data visualization</description>
+    </item>
+    
+    <item>
+      <title>ASP 460 2.0 Data Visualization</title>
+      <link>/schedule2022/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/schedule2022/</guid>
+      <description>2022: Semester 1 Course outline: here
+Here&amp;rsquo;s your roadmap for the semester! Class materials will be added on the day of the class.
+📊 Week 1: Introduction to data visualization: Visualisation design process
+📊 Week 2: Scientific design choices in data visualization
+📊 Week 3-4: Introduction to the grammar of graphics
+Global variabls vs Local variable
+📊 Week 5-6: Create different types of static graphics with ggplot2: categorical Data
+📊 Week 7-8: Visualizing distributions of data</description>
+    </item>
+    
+    <item>
+      <title>Previous Years Notes</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>2022 - Semester 1 Course materials
+2021 - Semester 1 Course materials
+2020 - Semester 1 🦠 😷 Course outline - 2020
+Slides</description>
+    </item>
+    
+    <item>
+      <title>STA 479 2.0 Special Topics in Statistics</title>
+      <link>/studentwork/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/studentwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students&#39; Individual Projects</title>
+      <link>/projects/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>2020 - Semester 1 Individual Project Assignment Outputs - 2020 Flexdashboard to visualize gapminder dataset by Thashikala Mendis EDA gapminder dataset by Thashikala Mendis
+Consumers&amp;rsquo; use of food label information Report - Rmd Report - html
+Dashboard - Rmd Dashboard - html</description>
+    </item>
+    
+  </channel>
+</rss>
